@@ -4,7 +4,7 @@
 >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debajitsahoo&label=Profile%20views&color=0e75b6&style=flat" alt="debajitsahoo" /> </p>
 
-- 🌱 I’m currently learning **fullsatck python**
+- 🌱 I’m currently learning **TESTING ENGINEER**
 
 - 👨‍💻 All of my projects are available at [https://github.com/debajitsahoo](https://github.com/debajitsahoo)
 
